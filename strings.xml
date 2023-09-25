@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Program2HavensFinal</string>
+    <string name="contact_info">Contact Information:</string>
+    <string name="first_name"></string>
+    <string name="first_name_hint">First Name</string>
+    <string name="last_name_hint">Last Name</string>
+    <string name="email_hint">Email</string>
+    <string name="phone_hint">Phone</string>
+    <string name="submit_button">Add Contact</string>
+    <string name="contactAdded">The Following Contact Has Been Added:</string>
+</resources>
